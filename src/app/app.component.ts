@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'angular9-springboot-client';
+  title = 'Angular 9 + Spring Boot 2 CRUD Tutorial';
 }
